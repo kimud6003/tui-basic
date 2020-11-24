@@ -6,3 +6,4 @@ start
 yarn
 
 yarn serve
+ㅅㄷㄴㅅ
